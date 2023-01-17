@@ -1,0 +1,1 @@
+he creado new file con vim desde git
